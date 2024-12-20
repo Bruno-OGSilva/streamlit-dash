@@ -1,4 +1,4 @@
-rom collections import Counter
+from collections import Counter
 
 import folium
 import matplotlib.pyplot as plt
